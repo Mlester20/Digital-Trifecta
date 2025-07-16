@@ -252,6 +252,7 @@ const socialImgs = [
   {
     name: "fb",
     imgPath: "/images/fb.png",
+    url: 'https://www.facebook.com/profile.php?id=61578155373275'
   },
   {
     name: "x",
